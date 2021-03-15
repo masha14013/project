@@ -1,0 +1,19 @@
+.listItem {
+	padding-top: 20px;
+	display: block;
+	max-width: 700px;
+}
+
+.listItem li {
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-right: 1px solid #e3e3e3;
+	list-style-type: none;
+	width: 200px;
+}
+
+.lists {
+	width: 750px;
+	margin: 0 auto;
+}
